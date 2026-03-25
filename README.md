@@ -1,53 +1,52 @@
-# Exp - 5 STUDENT ENROLLMENT SYSTEM
-#NAME : CJ ROHIT 
+# Exp 05- STUDENT ENROLLMENT SYSTEM
+
 # AIM:
 
-To study the problem statement, SRS document and draw all the UML diagrams of a Student Entrollment System.
+To study the problem statement, SRS document and draw all the UML diagrams of a Student Enrollment Management System.
 
 # SRS (Procedure):
 
-1. Study and understand the requirements of the student enrollment system
-2. Identify the users or actors like student, admin, registrar, faculty
-3. List the main functions such as student registration, course selection, fee payment, enrollment confirmation
-4. Identify main objects or classes like Student, Course, Enrollment, Payment, Admin
-5. Define the relationships and interactions among system components
-6. Create the workflow or process flow for operations like course enrollment and registration
-7. Organize the system structure and represent it using UML diagrams
+## Step 1: Problem Identification
 
-# DIAGRAMS:
+Manual student admission and record handling are time-consuming and prone to errors. The system aims to automate student registration, course enrollment, and record management efficiently.
 
-USE CASE DIAGRAM:
+## Step 2: Requirement Analysis
 
-<img width="1629" height="869" alt="image" src="https://github.com/user-attachments/assets/69892842-021e-409b-b362-d4dd46328849" />
+Users: Admin, Staff, and Student.      
+Main Functions: Student registration, course enrollment, fee payment, record updating, and report generation.    
+Non-Functional Needs: Security, reliability, and an easy-to-use interface.
 
-CLASS DIAGRAM:
+## Step 3: System Design
 
+Draw UML diagrams: Use Case, Class, Activity, Sequence, Communication, and Package diagrams.    
+Design database tables for Students, Courses, Enrollment, and Fees.
 
-<img width="1751" height="1181" alt="Screenshot 2026-03-10 135005" src="https://github.com/user-attachments/assets/555bd54c-76f1-410a-98c1-642a97ee99b7" />
+# UML DIAGRAMS:
 
+## USE CASE DIAGRAM:
 
+<img width="1005" height="847" alt="image" src="https://github.com/user-attachments/assets/5540aa6b-cc38-4585-a839-fe1a4b700de8" />
 
-PACKAGE DIAGRAM:
+## ACTIVITY DIAGRAM:
 
-<img width="1919" height="1185" alt="Screenshot 2026-03-10 135315" src="https://github.com/user-attachments/assets/14ba049b-b1dd-4977-9514-7e6c8e1509ea" />
+<img width="753" height="1041" alt="image" src="https://github.com/user-attachments/assets/ebfc6d26-f3ee-4b92-a62f-44538a767130" />
 
+## CLASS DIAGRAM:
 
-COMMUNICATION DIAGRAM:
+<img width="1213" height="800" alt="image" src="https://github.com/user-attachments/assets/70b41bf2-0064-40dc-8d67-39c34a86b1e0" />
 
-<img width="1883" height="1134" alt="Screenshot 2026-03-10 140328" src="https://github.com/user-attachments/assets/21c8d98e-c748-4d2a-b06c-ec4c90b75c09" />
+## COMMUNICATION DIAGRAM:
 
+<img width="1112" height="756" alt="image" src="https://github.com/user-attachments/assets/619c25b8-8de1-4179-a6ec-476f15cd995b" />
 
-SEQUENCE DIAGRAM:
+## PACKAGE DIAGRAM:
 
-<img width="1485" height="1045" alt="image" src="https://github.com/user-attachments/assets/dec6db5c-21b5-4ae2-a331-6dd8f5eb048c" />
+<img width="809" height="657" alt="image" src="https://github.com/user-attachments/assets/4d628a1d-9555-4001-95d7-aac959209267" />
 
+## SEQUENCE DIAGRAM:
 
-ACTIVIYTY DIAGRAM:
-
-<img width="896" height="973" alt="image" src="https://github.com/user-attachments/assets/1e8b7dee-19e8-4250-9a9c-baa41e0501da" />
-
+<img width="886" height="752" alt="image" src="https://github.com/user-attachments/assets/5e24ab8f-f320-43cf-b812-b39a211401fb" />
 
 # RESULT:
-Thus the Student entrollment system project was executed and the output was verified.
 
-
+Thus the Student enrollment management system project was executed and the output was verified.
